@@ -2,6 +2,8 @@
 
 Works only in WebKit browsers, as these are the only ones supporting 3D transforms.
 
+Demo: http://area51.ebinder.dk/css3-image-folding/
+
 However, this is a pretty awesome effect. Very much inspired by [this piece](http://dribbble.com/shots/324781-Photofold) on Dribbble.
 
 ## Room for improvement.
